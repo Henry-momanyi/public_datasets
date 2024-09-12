@@ -2,7 +2,7 @@
 
 **Author(@slack) : Henry Momanyi(@Henry Momanyi)**
 
-Gene expression entails the path followed in the transfer of unfunctional genes into a functional product. These genes may include: RNA, DNA and proteins.(Assefa et al., 2018)&#x20;
+Gene expression entails the path followed in the transfer of unfunctional genes into a functional product. These functional products may include: RNA, DNA and proteins.(Assefa et al., 2018)&#x20;
 
 The pathways followed involves transcription and translation.
 
